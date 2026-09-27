@@ -1,0 +1,8 @@
+Employee: Alice Smith     | Gross:  $1,000.00 | Tax:   $200.00 | Net:    $800.00
+Employee: Bob Jones       | Gross:  $1,050.00 | Tax:   $210.00 | Net:    $840.00
+Employee: Diana Prince    | Gross:  $1,911.00 | Tax:   $382.20 | Net:  $1,528.80
+Employee: George Clark    | Gross:      $0.00 | Tax:     $0.00 | Net:      $0.00
+Employee: Julia Roberts   | Gross:      $0.00 | Tax:     $0.00 | Net:      $0.00
+Employee: Kevin Bacon     | Gross:  $4,830.00 | Tax:   $966.00 | Net:  $3,864.00
+Employee: Laura Croft     | Gross:  $2,600.00 | Tax:   $520.00 | Net:  $2,080.00
+Employee: Nathan Drake    | Gross:  $1,800.00 | Tax:   $360.00 | Net:  $1,440.00

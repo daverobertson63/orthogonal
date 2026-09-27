@@ -1,0 +1,2 @@
+Employee: Alice | Gross: $1,000.00 | Tax: $200.00 | Net: $800.00
+Employee: Bob | Gross: $1,050.00 | Tax: $210.00 | Net: $840.00

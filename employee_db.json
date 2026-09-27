@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Smith",
+        "hourly_rate": 25.00,
+        "hours_worked": 40
+    },
+    {
+        "id": 2,
+        "name": "Bob Jones",
+        "hourly_rate": 30.00,
+        "hours_worked": 35
+    },
+    {
+        "id": 3,
+        "name": "Charlie Brown",
+        "hourly_rate": 20.00,
+        "hours_worked": -10
+    },
+    {
+        "id": 4,
+        "name": "Diana Prince",
+        "hourly_rate": 45.50,
+        "hours_worked": 42
+    },
+    {
+        "id": 5,
+        "name": "Evan Wright",
+        "hourly_rate": -15.00,
+        "hours_worked": 20
+    },
+    {
+        "id": 6,
+        "name": "Fiona Gallagher",
+        "hourly_rate": 18.25,
+        "hours_worked": "forty"
+    },
+    {
+        "id": 7,
+        "name": "George Clark",
+        "hourly_rate": 22.00,
+        "hours_worked": 0
+    },
+    {
+        "id": 8,
+        "name": "Hannah Abbott",
+        "hourly_rate": "35.00",
+        "hours_worked": 38
+    },
+    {
+        "id": 9,
+        "name": "Ian Malcolm",
+        "hourly_rate": 150.00
+    },
+    {
+        "id": 10,
+        "name": "Julia Roberts",
+        "hourly_rate": 0.00,
+        "hours_worked": 50
+    },
+    {
+        "id": 11,
+        "name": "Kevin Bacon",
+        "hourly_rate": 28.75,
+        "hours_worked": 168
+    },
+    {
+        "id": 12,
+        "name": "Laura Croft",
+        "hourly_rate": 65.00,
+        "hours_worked": 40
+    },
+    {
+        "id": 13,
+        "name": "Michael Scott",
+        "hourly_rate": 19.50,
+        "hours_worked": -5
+    },
+    {
+        "id": 14,
+        "name": "",
+        "hourly_rate": 21.00,
+        "hours_worked": 30
+    },
+    {
+        "id": 15,
+        "name": "Nathan Drake",
+        "hourly_rate": 40.00,
+        "hours_worked": 45
+    }
+]
